@@ -1,0 +1,7 @@
+C:\Users\bharat.naidu\source\repos\Practice\Collectons_namespace\bin\Debug\Collectons_namespace.exe.config
+C:\Users\bharat.naidu\source\repos\Practice\Collectons_namespace\bin\Debug\Collectons_namespace.exe
+C:\Users\bharat.naidu\source\repos\Practice\Collectons_namespace\bin\Debug\Collectons_namespace.pdb
+C:\Users\bharat.naidu\source\repos\Practice\Collectons_namespace\obj\Debug\Collectons_namespace.csproj.CoreCompileInputs.cache
+C:\Users\bharat.naidu\source\repos\Practice\Collectons_namespace\obj\Debug\Collectons_namespace.exe
+C:\Users\bharat.naidu\source\repos\Practice\Collectons_namespace\obj\Debug\Collectons_namespace.pdb
+C:\Users\bharat.naidu\source\repos\Practice\Collectons_namespace\obj\Debug\Collectons_namespace.csprojAssemblyReference.cache

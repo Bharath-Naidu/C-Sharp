@@ -1,0 +1,7 @@
+C:\Users\bharat.naidu\source\repos\Datatypes_size\Datatypes_size\bin\Debug\Datatypes_size.exe.config
+C:\Users\bharat.naidu\source\repos\Datatypes_size\Datatypes_size\bin\Debug\Datatypes_size.exe
+C:\Users\bharat.naidu\source\repos\Datatypes_size\Datatypes_size\bin\Debug\Datatypes_size.pdb
+C:\Users\bharat.naidu\source\repos\Datatypes_size\Datatypes_size\obj\Debug\Datatypes_size.csprojAssemblyReference.cache
+C:\Users\bharat.naidu\source\repos\Datatypes_size\Datatypes_size\obj\Debug\Datatypes_size.csproj.CoreCompileInputs.cache
+C:\Users\bharat.naidu\source\repos\Datatypes_size\Datatypes_size\obj\Debug\Datatypes_size.exe
+C:\Users\bharat.naidu\source\repos\Datatypes_size\Datatypes_size\obj\Debug\Datatypes_size.pdb

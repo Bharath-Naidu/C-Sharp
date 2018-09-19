@@ -1,0 +1,7 @@
+C:\Users\bharat.naidu\source\repos\Personal_Test\static_concept\obj\Debug\static_concept.csprojAssemblyReference.cache
+C:\Users\bharat.naidu\source\repos\Personal_Test\static_concept\obj\Debug\static_concept.csproj.CoreCompileInputs.cache
+C:\Users\bharat.naidu\source\repos\Personal_Test\static_concept\bin\Debug\static_concept.exe.config
+C:\Users\bharat.naidu\source\repos\Personal_Test\static_concept\bin\Debug\static_concept.exe
+C:\Users\bharat.naidu\source\repos\Personal_Test\static_concept\bin\Debug\static_concept.pdb
+C:\Users\bharat.naidu\source\repos\Personal_Test\static_concept\obj\Debug\static_concept.exe
+C:\Users\bharat.naidu\source\repos\Personal_Test\static_concept\obj\Debug\static_concept.pdb

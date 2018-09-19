@@ -1,0 +1,14 @@
+C:\Users\bharat.naidu\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\bharat.naidu\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\bharat.naidu\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\bharat.naidu\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\School_Grade.csprojAssemblyReference.cache
+C:\Users\bharat.naidu\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\School_Grade.csproj.CoreCompileInputs.cache
+C:\Users\bharat.naidu\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\bharat.naidu\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\bharat.naidu\source\repos\Class_Objects\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\bharat.naidu\source\repos\Class_Objects\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\bharat.naidu\source\repos\Class_Objects\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\bharat.naidu\source\repos\Class_Objects\ConsoleApp4\obj\Debug\School_Grade.csprojAssemblyReference.cache
+C:\Users\bharat.naidu\source\repos\Class_Objects\ConsoleApp4\obj\Debug\School_Grade.csproj.CoreCompileInputs.cache
+C:\Users\bharat.naidu\source\repos\Class_Objects\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\bharat.naidu\source\repos\Class_Objects\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

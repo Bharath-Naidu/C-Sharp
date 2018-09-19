@@ -1,0 +1,7 @@
+C:\Users\bharat.naidu\source\repos\Practice\AbstractClass11_9_2018\obj\Debug\AbstractClass11_9_2018.csprojAssemblyReference.cache
+C:\Users\bharat.naidu\source\repos\Practice\AbstractClass11_9_2018\obj\Debug\AbstractClass11_9_2018.csproj.CoreCompileInputs.cache
+C:\Users\bharat.naidu\source\repos\Practice\AbstractClass11_9_2018\bin\Debug\AbstractClass11_9_2018.exe.config
+C:\Users\bharat.naidu\source\repos\Practice\AbstractClass11_9_2018\bin\Debug\AbstractClass11_9_2018.exe
+C:\Users\bharat.naidu\source\repos\Practice\AbstractClass11_9_2018\bin\Debug\AbstractClass11_9_2018.pdb
+C:\Users\bharat.naidu\source\repos\Practice\AbstractClass11_9_2018\obj\Debug\AbstractClass11_9_2018.exe
+C:\Users\bharat.naidu\source\repos\Practice\AbstractClass11_9_2018\obj\Debug\AbstractClass11_9_2018.pdb

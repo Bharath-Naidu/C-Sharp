@@ -1,0 +1,7 @@
+C:\Users\bharat.naidu\source\repos\Practice\Exceptions12_9_18\bin\Debug\Exceptions12_9_18.exe.config
+C:\Users\bharat.naidu\source\repos\Practice\Exceptions12_9_18\bin\Debug\Exceptions12_9_18.exe
+C:\Users\bharat.naidu\source\repos\Practice\Exceptions12_9_18\bin\Debug\Exceptions12_9_18.pdb
+C:\Users\bharat.naidu\source\repos\Practice\Exceptions12_9_18\obj\Debug\Exceptions12_9_18.csprojAssemblyReference.cache
+C:\Users\bharat.naidu\source\repos\Practice\Exceptions12_9_18\obj\Debug\Exceptions12_9_18.csproj.CoreCompileInputs.cache
+C:\Users\bharat.naidu\source\repos\Practice\Exceptions12_9_18\obj\Debug\Exceptions12_9_18.exe
+C:\Users\bharat.naidu\source\repos\Practice\Exceptions12_9_18\obj\Debug\Exceptions12_9_18.pdb

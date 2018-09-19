@@ -1,0 +1,7 @@
+C:\Users\bharat.naidu\source\repos\Cricket_Assignment\EmployeException12_9_18\bin\Debug\EmployeException12_9_18.exe.config
+C:\Users\bharat.naidu\source\repos\Cricket_Assignment\EmployeException12_9_18\bin\Debug\EmployeException12_9_18.exe
+C:\Users\bharat.naidu\source\repos\Cricket_Assignment\EmployeException12_9_18\bin\Debug\EmployeException12_9_18.pdb
+C:\Users\bharat.naidu\source\repos\Cricket_Assignment\EmployeException12_9_18\obj\Debug\EmployeException12_9_18.csprojAssemblyReference.cache
+C:\Users\bharat.naidu\source\repos\Cricket_Assignment\EmployeException12_9_18\obj\Debug\EmployeException12_9_18.csproj.CoreCompileInputs.cache
+C:\Users\bharat.naidu\source\repos\Cricket_Assignment\EmployeException12_9_18\obj\Debug\EmployeException12_9_18.exe
+C:\Users\bharat.naidu\source\repos\Cricket_Assignment\EmployeException12_9_18\obj\Debug\EmployeException12_9_18.pdb

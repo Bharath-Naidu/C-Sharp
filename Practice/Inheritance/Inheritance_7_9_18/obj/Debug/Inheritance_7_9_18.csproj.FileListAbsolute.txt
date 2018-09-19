@@ -1,0 +1,7 @@
+C:\Users\bharat.naidu\source\repos\Inheritance\Inheritance_7_9_18\bin\Debug\Inheritance_7_9_18.exe.config
+C:\Users\bharat.naidu\source\repos\Inheritance\Inheritance_7_9_18\bin\Debug\Inheritance_7_9_18.exe
+C:\Users\bharat.naidu\source\repos\Inheritance\Inheritance_7_9_18\bin\Debug\Inheritance_7_9_18.pdb
+C:\Users\bharat.naidu\source\repos\Inheritance\Inheritance_7_9_18\obj\Debug\Inheritance_7_9_18.csprojAssemblyReference.cache
+C:\Users\bharat.naidu\source\repos\Inheritance\Inheritance_7_9_18\obj\Debug\Inheritance_7_9_18.csproj.CoreCompileInputs.cache
+C:\Users\bharat.naidu\source\repos\Inheritance\Inheritance_7_9_18\obj\Debug\Inheritance_7_9_18.exe
+C:\Users\bharat.naidu\source\repos\Inheritance\Inheritance_7_9_18\obj\Debug\Inheritance_7_9_18.pdb

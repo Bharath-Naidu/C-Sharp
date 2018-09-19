@@ -1,0 +1,7 @@
+C:\Users\bharat.naidu\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\bharat.naidu\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\bharat.naidu\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\bharat.naidu\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\bharat.naidu\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\bharat.naidu\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\bharat.naidu\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
