@@ -1,0 +1,6 @@
+D:\windowsform\WindowsFormsApp1\Repository\bin\Debug\Repository.dll
+D:\windowsform\WindowsFormsApp1\Repository\bin\Debug\Repository.pdb
+D:\windowsform\WindowsFormsApp1\Repository\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\windowsform\WindowsFormsApp1\Repository\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\windowsform\WindowsFormsApp1\Repository\obj\Debug\Repository.dll
+D:\windowsform\WindowsFormsApp1\Repository\obj\Debug\Repository.pdb
